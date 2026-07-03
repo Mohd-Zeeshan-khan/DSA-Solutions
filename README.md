@@ -76,3 +76,19 @@ Solve hundreds of DSA problems while continuously improving coding speed, algori
 ---
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
+<!---LeetCode Topics End-->
