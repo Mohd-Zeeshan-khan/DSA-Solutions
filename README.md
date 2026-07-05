@@ -83,15 +83,18 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
