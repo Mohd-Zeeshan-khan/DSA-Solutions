@@ -102,9 +102,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
