@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0704-binary-search](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -98,11 +99,13 @@ Happy Coding! 🚀
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +115,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
