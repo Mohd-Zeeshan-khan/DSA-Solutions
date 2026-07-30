@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0069-sqrtx) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -130,4 +131,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
