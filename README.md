@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
@@ -119,6 +120,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Number Theory
