@@ -137,6 +137,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -145,6 +146,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
