@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -114,6 +115,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -156,10 +158,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 ## Enumeration
 |  |
 | ------- |
@@ -168,4 +172,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
