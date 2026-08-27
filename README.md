@@ -141,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -150,6 +151,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -190,4 +192,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
