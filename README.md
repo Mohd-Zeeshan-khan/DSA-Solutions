@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -164,6 +165,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
@@ -204,4 +206,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
