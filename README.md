@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0704-binary-search) |
@@ -129,6 +130,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0704-binary-search) |
@@ -142,6 +144,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
