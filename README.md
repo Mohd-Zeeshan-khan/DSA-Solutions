@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -147,10 +148,12 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
