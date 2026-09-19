@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -220,4 +221,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mohd-Zeeshan-khan/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
